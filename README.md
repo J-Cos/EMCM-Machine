@@ -1,2 +1,3 @@
 # EMCM-Machine
-A page detailign SOPs for the EMCM machine. 
+A page detailing SOPs for the EMCM machine. 
+
